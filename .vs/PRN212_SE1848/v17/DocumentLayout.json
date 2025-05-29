@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5400520-0697-4847-8472-7564FAB5C375}|OOP5_Generic_List\\OOP5_Generic_List.csproj|d:\\summer2025\\prn212\\prn212_se1848\\oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5400520-0697-4847-8472-7564FAB5C375}|OOP5_Generic_List\\OOP5_Generic_List.csproj|solutionrelative:oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C92096F-55D7-4F16-8E3F-A5EBED0506EA}|OOP4\\OOP4_Reuse_OOP2.csproj|d:\\summer2025\\prn212\\prn212_se1848\\oop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C92096F-55D7-4F16-8E3F-A5EBED0506EA}|OOP4\\OOP4_Reuse_OOP2.csproj|solutionrelative:oop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C92096F-55D7-4F16-8E3F-A5EBED0506EA}|OOP4\\OOP4_Reuse_OOP2.csproj|d:\\summer2025\\prn212\\prn212_se1848\\oop4\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C92096F-55D7-4F16-8E3F-A5EBED0506EA}|OOP4\\OOP4_Reuse_OOP2.csproj|solutionrelative:oop4\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP5_Generic_List\\Program.cs",
+              "RelativeDocumentMoniker": "OOP5_Generic_List\\Program.cs",
+              "ToolTip": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP5_Generic_List\\Program.cs",
+              "RelativeToolTip": "OOP5_Generic_List\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:19:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YourUtils.cs",
+              "DocumentMoniker": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP4\\YourUtils.cs",
+              "RelativeDocumentMoniker": "OOP4\\YourUtils.cs",
+              "ToolTip": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP4\\YourUtils.cs",
+              "RelativeToolTip": "OOP4\\YourUtils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:05:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP4\\Program.cs",
+              "RelativeDocumentMoniker": "OOP4\\Program.cs",
+              "ToolTip": "D:\\SUMMER2025\\PRN212\\PRN212_SE1848\\OOP4\\Program.cs",
+              "RelativeToolTip": "OOP4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:05:21.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\refint\QuadraticEquation.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\QuadraticEquation\obj\Debug\net9.0\ref\QuadraticEquation.dll

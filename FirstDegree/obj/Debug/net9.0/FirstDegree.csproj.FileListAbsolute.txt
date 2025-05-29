@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\refint\FirstDegree.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\FirstDegree\obj\Debug\net9.0\ref\FirstDegree.dll

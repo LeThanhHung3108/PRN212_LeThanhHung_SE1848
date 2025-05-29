@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\bin\Debug\net9.0\hinh1_chuNSample.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\bin\Debug\net9.0\hinh1_chuNSample.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\bin\Debug\net9.0\hinh1_chuNSample.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\bin\Debug\net9.0\hinh1_chuNSample.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\bin\Debug\net9.0\hinh1_chuNSample.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\refint\hinh1_chuNSample.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\hinh1_chuNSample.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\hinh1_chuNSample\obj\Debug\net9.0\ref\hinh1_chuNSample.dll

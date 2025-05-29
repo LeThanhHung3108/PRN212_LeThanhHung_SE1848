@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\refint\SimpleMath.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\SimpleMath\obj\Debug\net9.0\ref\SimpleMath.dll

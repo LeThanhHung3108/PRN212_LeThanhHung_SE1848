@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

@@ -1,0 +1,14 @@
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.exe
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.deps.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.runtimeconfig.json
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfoInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfo.cs
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\refint\StringInteraction.dll
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.pdb
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.genruntimeconfig.cache
+D:\SUMMER2025\PRN212\PRN212_SE1848\StringInteraction\obj\Debug\net9.0\ref\StringInteraction.dll
