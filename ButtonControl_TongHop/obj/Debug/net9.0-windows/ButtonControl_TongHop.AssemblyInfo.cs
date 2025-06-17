@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ButtonControl_TongHop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16dec8b1e6abfcbfc59844ef087ed22fabc074b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+504da1d6305bc7343abc6428d8590fa57b0d9b73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ButtonControl_TongHop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ButtonControl_TongHop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
